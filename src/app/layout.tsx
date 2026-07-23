@@ -14,9 +14,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Custom Home Builder",
+  title: "Apex Auto Detailing | Sydney Mobile Car Detailing",
   description:
-    "A premium custom home building studio — crafted homes, guided from concept to completion.",
+    "Premium ceramic coating and paint correction, brought directly to your driveway anywhere in Sydney. Book in 60 seconds.",
 };
 
 export default function RootLayout({

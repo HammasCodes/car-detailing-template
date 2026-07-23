@@ -1,15 +1,15 @@
 const testimonials = [
   {
     quote:
-      "Building our home with Marlowe was the most stress-free experience we've ever had. They handled every detail with absolute precision.",
-    author: "Sarah & John Davidson",
-    location: "Hill Country",
+      "My car looks better than the day I bought it. The ceramic coating is flawless and they came straight to my driveway — couldn't be easier.",
+    author: "James",
+    location: "Sydney",
   },
   {
     quote:
-      "The craftsmanship is unmatched. From the architectural details to the final finish, they delivered exactly what they promised, on time.",
-    author: "Michael Reeves",
-    location: "Lake Travis",
+      "Booked online in under a minute and they showed up right on time. The paint correction results are unreal, worth every cent.",
+    author: "David",
+    location: "Sydney",
   },
 ];
 

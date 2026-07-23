@@ -2,51 +2,51 @@ import Image from "next/image";
 
 const projects = [
   {
-    name: "The Hillside Estate",
-    location: "Austin, TX",
+    name: "Ceramic Coating",
+    location: "Full Gloss Protection",
     image:
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2000&auto=format&fit=crop",
-    alt: "Modern luxury hillside home exterior at dusk",
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?q=80&w=2000&auto=format&fit=crop",
+    alt: "Red supercar with a glossy ceramic-coated finish in a showroom",
     span: "md:col-span-4 md:row-span-2",
   },
   {
-    name: "Lakeside Modern",
-    location: "Lake Travis, TX",
+    name: "Paint Correction",
+    location: "Swirl & Scratch Removal",
     image:
-      "https://images.unsplash.com/photo-1613977257363-707ba9348227?q=80&w=1600&auto=format&fit=crop",
-    alt: "Modern lakeside home exterior with clean lines",
+      "https://images.unsplash.com/photo-1519245659620-e859806a8d3b?q=80&w=1600&auto=format&fit=crop",
+    alt: "Luxury sports car with a flawless corrected paint finish under showroom lighting",
     span: "md:col-span-2 md:row-span-1",
   },
   {
-    name: "The Canyon House",
-    location: "Sedona, AZ",
+    name: "Headlight Restoration",
+    location: "Clarity Renewed",
     image:
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1600&auto=format&fit=crop",
-    alt: "Luxury modern living room interior with natural light",
+      "https://images.unsplash.com/photo-1583267746897-2cf415887172?q=80&w=1600&auto=format&fit=crop",
+    alt: "Close-up of a luxury car's front grille and headlights",
     span: "md:col-span-2 md:row-span-1",
   },
   {
-    name: "Meadowbrook Retreat",
-    location: "Aspen, CO",
+    name: "Interior Deep Clean",
+    location: "Showroom Fresh",
     image:
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600&auto=format&fit=crop",
-    alt: "Contemporary custom home nestled in a wooded retreat",
+      "https://images.unsplash.com/photo-1568844293986-8d0400bd4745?q=80&w=1600&auto=format&fit=crop",
+    alt: "Luxury car on display under dramatic showroom lighting",
     span: "md:col-span-3 md:row-span-1",
   },
   {
-    name: "Cedar Ridge Residence",
-    location: "Boulder, CO",
+    name: "Full Exterior Detail",
+    location: "Bumper to Bumper",
     image:
-      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1600&auto=format&fit=crop",
-    alt: "Luxury kitchen interior with custom cabinetry",
+      "https://images.unsplash.com/photo-1580414057403-c5f451f30e1c?q=80&w=1600&auto=format&fit=crop",
+    alt: "White luxury sports car driving through autumn foliage",
     span: "md:col-span-3 md:row-span-1",
   },
   {
-    name: "The Coastal Modern",
-    location: "Malibu, CA",
+    name: "Wheel & Rim Detail",
+    location: "Every Spoke, Spotless",
     image:
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?q=80&w=2000&auto=format&fit=crop",
-    alt: "Modern coastal home exterior with expansive glass",
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=2000&auto=format&fit=crop",
+    alt: "Blue muscle car with detailed wheels in desert light",
     span: "md:col-span-6 md:row-span-1",
   },
 ];
@@ -60,8 +60,8 @@ export default function Portfolio() {
             Featured Work
           </h2>
           <p className="mt-5 font-sans text-base text-ink-soft sm:text-lg">
-            A selection of homes built with the same care and precision we
-            bring to every project.
+            A selection of details finished with the same care and precision
+            we bring to every vehicle.
           </p>
         </div>
 

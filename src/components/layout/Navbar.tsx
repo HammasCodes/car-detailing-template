@@ -36,7 +36,7 @@ export default function Navbar() {
             solid ? "text-ink" : "text-white"
           }`}
         >
-          Marlowe Homes
+          Apex Auto Detailing
         </a>
 
         <div className="hidden items-center gap-10 md:flex">
@@ -55,7 +55,7 @@ export default function Navbar() {
             href="#contact"
             className="rounded-full bg-accent px-6 py-2.5 font-sans text-sm font-medium text-white transition-colors hover:bg-accent-dark"
           >
-            Book a Consultation
+            Book Now
           </a>
         </div>
 
@@ -97,7 +97,7 @@ export default function Navbar() {
               onClick={() => setMenuOpen(false)}
               className="rounded-full bg-accent px-6 py-3 text-center font-sans text-sm font-medium text-white transition-colors hover:bg-accent-dark"
             >
-              Book a Consultation
+              Book Now
             </a>
           </div>
         </div>

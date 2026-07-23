@@ -3,7 +3,7 @@ export default function Contact() {
     <section id="contact" className="bg-ink py-24 md:py-32">
       <div className="mx-auto max-w-3xl px-6 text-center lg:px-10">
         <h2 className="font-display text-4xl text-cream sm:text-5xl">
-          Ready to Build Something Extraordinary?
+          Ready to Book Your Detail?
         </h2>
         <p className="mt-5 font-sans text-base text-cream/70 sm:text-lg">
           Schedule a consultation with our team. We&apos;ll walk you through
@@ -71,7 +71,7 @@ export default function Contact() {
               name="message"
               rows={3}
               className="mt-3 w-full resize-none border-0 border-b border-cream/25 bg-transparent pb-3 font-sans text-cream placeholder:text-cream/30 focus:border-accent focus:outline-none"
-              placeholder="Tell us about your project"
+              placeholder="Tell us about your vehicle and the service you need"
             />
           </div>
 
@@ -80,7 +80,7 @@ export default function Contact() {
               type="button"
               className="w-full rounded-full bg-accent px-8 py-4 font-sans text-sm font-medium tracking-wide text-cream transition-colors hover:bg-accent-dark sm:w-auto"
             >
-              Book a Consultation
+              Book Now
             </button>
           </div>
         </form>

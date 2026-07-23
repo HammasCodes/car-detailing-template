@@ -1,23 +1,23 @@
 const steps = [
   {
     number: "01",
-    title: "Discover",
-    body: "We start with your vision. Every detail of your lifestyle, aesthetic, and needs shapes the foundation of the design.",
+    title: "Book Online",
+    body: "Choose your service and pick a time that works for you. Booking takes less than 60 seconds, no phone calls required.",
   },
   {
     number: "02",
-    title: "Design",
-    body: "Our architects translate your vision into precise plans. You see every space before we break ground.",
+    title: "We Come to You",
+    body: "Our fully-equipped mobile detailing van arrives at your home or office, ready to work — no drop-off required.",
   },
   {
     number: "03",
-    title: "Build",
-    body: "Our master craftsmen bring the design to life with uncompromising quality and obsessive attention to detail.",
+    title: "The Detail",
+    body: "Our certified detailers hand-wash, correct, and protect your paint with premium products and obsessive attention to every panel.",
   },
   {
     number: "04",
-    title: "Deliver",
-    body: "We hand you the keys to a home that exceeds expectations, built to last for generations.",
+    title: "The Reveal",
+    body: "Step outside to a car that looks better than the day you drove it off the lot, protected and ready to turn heads.",
   },
 ];
 
@@ -27,11 +27,11 @@ export default function Process() {
       <div className="mx-auto max-w-7xl px-6 lg:px-10">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="font-display text-4xl text-ink sm:text-5xl">
-            How We Build
+            How It Works
           </h2>
           <p className="mt-5 font-sans text-base text-ink-soft sm:text-lg">
-            A considered, transparent process from first conversation to
-            final walkthrough.
+            A simple, convenient process from booking to reveal — all done
+            at your location.
           </p>
         </div>
 
